@@ -1,8 +1,8 @@
-```yaml
+---
 layout: page
 title: "Privacy"
 permalink: /privacy
-```
+---
 
 
 Privacy Policy – Swing Thoughts
