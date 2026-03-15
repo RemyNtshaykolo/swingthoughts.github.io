@@ -1,3 +1,8 @@
+layout: page
+title: "Privacy"
+permalink: /privacy
+
+
 Privacy Policy – Swing Thoughts
 
 Swing Thoughts helps users save golf thoughts, journal entries, photos, videos, and resource links.
